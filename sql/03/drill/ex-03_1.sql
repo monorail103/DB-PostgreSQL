@@ -1,0 +1,1 @@
+SELECT id AS "ID", name AS "名前", level, buff, '要調査/問題なし' AS "不正行為の疑い？" FROM s_characters;

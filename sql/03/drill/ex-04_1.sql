@@ -1,0 +1,1 @@
+SELECT id, name || ' (' || job || ' LV.' || level || ')' AS "summary" FROM s_characters;
