@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS p_characters;
+
+START TRANSACTION;
+
+-- キャラクタテーブルの作成
+CREATE TABLE p_characters (
+ character_id INTEGER GENERATED ALWAYS AS IDENTITY (START WITH 1000) PRIMARY KEY, -- 自動採番
+ name VARCHAR(16) NOT NULL
+);

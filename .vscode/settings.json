@@ -4,6 +4,7 @@
     "backline",
     "dbgate",
     "debuff",
+    "Elen",
     "fuga",
     "Gomi",
     "hameln",
@@ -13,11 +14,11 @@
     "Prefecturals",
     "RDBMS",
     "sslmode",
+    "TRUNC",
     "Yamato"
   ],
   "[sql]": {
-    "editor.defaultFormatter": "adpyke.vscode-sql-formatter",
-    "editor.formatOnSave": true
+    "editor.defaultFormatter": "ReneSaarsoo.sql-formatter-vsc"
   },
   "SQL-Formatter-VSCode.keywordCase": "upper",
   "SQL-Formatter-VSCode.denseOperators": false,
