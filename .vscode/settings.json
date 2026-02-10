@@ -19,7 +19,7 @@
     "Yamato"
   ],
   "[sql]": {
-    "editor.defaultFormatter": "ReneSaarsoo.sql-formatter-vsc"
+    "editor.defaultFormatter": "adpyke.vscode-sql-formatter"
   },
   "SQL-Formatter-VSCode.keywordCase": "upper",
   "SQL-Formatter-VSCode.denseOperators": false,
